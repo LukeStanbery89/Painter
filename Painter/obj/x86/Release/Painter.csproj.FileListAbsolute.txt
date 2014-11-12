@@ -1,0 +1,10 @@
+C:\Users\LukeS\documents\visual studio 2010\Projects\Painter\Painter\bin\Release\Painter.exe
+C:\Users\LukeS\documents\visual studio 2010\Projects\Painter\Painter\bin\Release\Painter.pdb
+C:\Users\LukeS\documents\visual studio 2010\Projects\Painter\Painter\obj\x86\Release\Painter.csprojResolveAssemblyReference.cache
+C:\Users\LukeS\documents\visual studio 2010\Projects\Painter\Painter\obj\x86\Release\Painter.Form1.resources
+C:\Users\LukeS\documents\visual studio 2010\Projects\Painter\Painter\obj\x86\Release\Painter.Properties.Resources.resources
+C:\Users\LukeS\documents\visual studio 2010\Projects\Painter\Painter\obj\x86\Release\Painter.csproj.GenerateResource.Cache
+C:\Users\LukeS\documents\visual studio 2010\Projects\Painter\Painter\obj\x86\Release\Painter.exe
+C:\Users\LukeS\documents\visual studio 2010\Projects\Painter\Painter\obj\x86\Release\Painter.pdb
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\Painter\Painter\obj\x86\Release\Painter.exe
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\Painter\Painter\obj\x86\Release\Painter.pdb

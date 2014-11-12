@@ -1,0 +1,8 @@
+C:\Users\LukeS\documents\visual studio 2010\Projects\Painter\Painter\bin\Debug\Painter.exe
+C:\Users\LukeS\documents\visual studio 2010\Projects\Painter\Painter\bin\Debug\Painter.pdb
+C:\Users\LukeS\documents\visual studio 2010\Projects\Painter\Painter\obj\x86\Debug\Painter.Form1.resources
+C:\Users\LukeS\documents\visual studio 2010\Projects\Painter\Painter\obj\x86\Debug\Painter.Properties.Resources.resources
+C:\Users\LukeS\documents\visual studio 2010\Projects\Painter\Painter\obj\x86\Debug\Painter.csproj.GenerateResource.Cache
+C:\Users\LukeS\documents\visual studio 2010\Projects\Painter\Painter\obj\x86\Debug\Painter.exe
+C:\Users\LukeS\documents\visual studio 2010\Projects\Painter\Painter\obj\x86\Debug\Painter.pdb
+C:\Users\LukeS\Documents\Visual Studio 2010\Projects\Painter\Painter\obj\x86\Debug\Painter.csprojResolveAssemblyReference.cache
